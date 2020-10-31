@@ -11,7 +11,7 @@ public class HelloJava2 {
 
 	public static void main(String[] args) {
 		System.out.println("Hello, Java"); // 한줄 주석
-		System.out.println("Second test"); // 깃허브 테스트 두번째용
+		System.out.println("Second test"); // 깃허브 테스트 두번째
 
 	}
 
