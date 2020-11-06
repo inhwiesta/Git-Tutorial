@@ -16,6 +16,5 @@ public class CharacterEx1 {
 		int ch3 = 67;
 		System.out.println(ch3); //문자 정수 값 출력
 		System.out.println((char)ch3); //정수 값에 해당하는 문자 출력
-		
 		}
 }
